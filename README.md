@@ -1,5 +1,8 @@
 # 🏗️ Architektura 101
 
+> [!WARNING]
+> Znaczek `>` przy sekcjach pozwala na rozwijanie i zwijanie treści. Kliknij aby zobaczyć szczegóły każdej sekcji.
+
 ## ⚖️ **PRAWA ARCHITEKTURY OPROGRAMOWANIA**
 
 ### **🥇 Pierwsze Prawo Architektury Oprogramowania**
@@ -404,5 +407,3 @@
 - [x] **🔧 Tools amplify thinking** - AI/tooling jako wzmacniacz, nie zamiennik
 
 ---
-
-> **💡 Pro tip:** Użyj checkboxów do śledzenia swojego postępu w nauce architektury!
